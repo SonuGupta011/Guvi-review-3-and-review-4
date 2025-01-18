@@ -1,0 +1,34 @@
+Project Documentation: Online Learning Management System (LMS)
+
+1. Introduction:
+   - Purpose of the system
+   - Target users (Students, Teachers, Admin)
+
+2. System Requirements:
+   - Java version 8 or above
+   - GUI libraries (Swing, JavaFX)
+
+3. Installation Guide:
+   - Step 1: Download the source code
+   - Step 2: Compile the code using `javac`
+   - Step 3: Run the application using `java LMSApp`
+
+4. Features:
+   - User Authentication
+   - Course Management
+   - Assignment Submissions and Grades
+   - Discussion Forum
+
+5. Code Structure:
+   - UML diagrams for class structure
+   - Description of key classes and methods
+
+6. Screenshots:
+   - Login Screen
+   - Dashboard
+   - Course List
+   - Assignment Submission
+
+7. Conclusion:
+   - Summary of the project
+   - Possible improvements and future work
